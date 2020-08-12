@@ -1,3 +1,5 @@
 Git Course
 
-Repositório para ensinar como o git funciona
+Repositório para ensinar como o git funciona.
+
+Saiba mais no link xyz
