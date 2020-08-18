@@ -1,0 +1,14 @@
+# status 
+git status
+
+# criar Branch
+git checkout -b NovaBranch
+
+#ver as branchs
+git branch
+
+# mudar 
+git checkout master
+
+# deletar
+git checkout -d NovaBranch
