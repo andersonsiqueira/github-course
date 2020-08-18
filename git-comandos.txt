@@ -12,3 +12,11 @@ git checkout master
 
 # deletar
 git checkout -d NovaBranch
+
+# Unir branchs - com merge - complexo
+
+
+# Unir branchs - com rebase - complexo
+
+
+
