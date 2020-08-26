@@ -24,3 +24,10 @@ git stash
 # trabalhando com alias no git
 git config --global alias.s status
 
+# trabalhando com tags
+git tag -a <valor> -m "mensagem"
+git tag -a 1.0.0 -m "Readme finalizado"
+
+#subir as tags
+git push origin Master --tags
+

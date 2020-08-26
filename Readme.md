@@ -11,3 +11,5 @@ This is more teste
 Teste da aula 11 - Visualizando o diff
 
 Visite o link www.ufabc.edu.br
+
+Outros cursos em: (www.udemy.com.br)
