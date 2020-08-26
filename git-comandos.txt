@@ -15,8 +15,10 @@ git checkout -d NovaBranch
 
 # Unir branchs - com merge - complexo
 
-
 # Unir branchs - com rebase - complexo
+
+# Guardar alterações que não foram commitadas em um arquivo
+# pode chmar quando achar necesspario
 
 
 
