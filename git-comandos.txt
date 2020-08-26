@@ -31,3 +31,12 @@ git tag -a 1.0.0 -m "Readme finalizado"
 #subir as tags
 git push origin Master --tags
 
+# reverter (reverte mudanças, código anterior) - git reset, perde tudo
+git revert
+
+# apagar repositório remoto
+g tag 
+
+# local
+git tag -d <nome da tag>
+git tag -d 1.0.0
